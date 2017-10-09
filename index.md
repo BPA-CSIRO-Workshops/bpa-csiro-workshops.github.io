@@ -71,6 +71,7 @@ are available [here][bpa-ngs-handouts].
 All of these components, scripts and configuration tools make up the BTP and are managed and available on GitHub (https://github.com/BPA-CSIRO-Workshops) and are licensed under a Creative Commons Attribution 3.0 Unported License.
 
 [btp-workshop-ngs]: https://github.com/BPA-CSIRO-Workshops/btp-workshop-ngs
+[btp-workshop-cancer]: https://github.com/BPA-CSIRO-Workshops/btp-workshop-cancer
 [btp-module-ngs-cli]: https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-cli
 [btp-module-ngs-qc]: https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc
 [btp-module-ngs-mapping]: https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-mapping
