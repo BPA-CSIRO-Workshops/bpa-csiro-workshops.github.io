@@ -1,0 +1,8 @@
+title: BPA-CSIRO Workshops
+description: Advancing bioinformatics expertise among Australian ‘omics researchers.
+google_analytics: UA-68148892-3
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
